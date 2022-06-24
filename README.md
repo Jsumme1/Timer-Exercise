@@ -1,0 +1,2 @@
+# Timer-Exercise
+JavaScript practicing
